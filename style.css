@@ -1,0 +1,8 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/colour-pencils_1361-310.jpg);
+    background-position: center;
+}
+#myCanvas{
+    background-color: white;
+    border: 10px;
+}
